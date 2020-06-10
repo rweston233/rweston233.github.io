@@ -1,9 +1,51 @@
  <h1>rweston233.github.io</h1>
   <h2>River Weston's CIT Code portfolio </h2>
-  <h3>CIT Class Projects</h3>
 
-  - [CIT 281 Projects](https://uo-cit.github.io/project-5-rweston233/). Unix shell, Git, RESTful Web Apps with NodeJS, Express, MongoDB.
+  The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
+
+  The CIT minor prepares students to use and apply technologies in workplace environments that require development and management of databases, computer networks, web applications, and software systems.
+
+  <h2>CIT Class Projects</h2>
+  The CIT minor consists of six classes:
+
+  <ol>
+    <li><b>CIT 383 Networking Fundamentals</b>. Network protocols, management, and security.
+      </li>
+    <li><b>CIT 382 Web App Dev II</b>. NodeJS, React.</li>
+    <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.</li>
+    <li><b>CIT 281 Web App Dev I</b>. Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
+    <blockquote>
+     <b>281 Project Repos On Github:</b>
+    <ul>
+       <li>
+         <a href="https://uo-cit.github.io/project-5-rweston233/">Project 5</a>
+       </li>
+       <li>Project 4</li>
+       <li>Project 3</li>
+       <li>
+       <a href="https://rweston233.github.io/project-2/">Project 2</a>
+       </li>
+       <!-- <li>
+         <a href="https://mh108.github.io/project-1/">Project 1</a>
+       </li> -->
+       </ul>
+    </blockquote>
+    </ol>
+
+
+
+
+  5. <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
+  <blockquote>
+    <a href="https://pages.uoregon.edu/rweston/111/"> 111 Projects (uoregon.edu)</a>
+  </blockquote>
+
+  6. <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
+  <blockquote>
+    <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
+  </blockquote>
+
+
+  <!-- - [CIT 281 Projects](https://uo-cit.github.io/project-5-rweston233/). Unix shell, Git, RESTful Web Apps with NodeJS, Express, MongoDB.
   - [CIS 111 Projects](https://pages.uoregon.edu/rweston/111/). JavaScript ES6, DOM API, jQuery.
-  - [CIS 110 Projects](https://pages.uoregon.edu/rweston/110/). HTML, CSS.
-
-  <img src="images/RedBeetle.jpeg" alt="red RedBeetle" width="200">
+  - [CIS 110 Projects](https://pages.uoregon.edu/rweston/110/). HTML, CSS. -->
