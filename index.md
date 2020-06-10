@@ -31,6 +31,7 @@ The CIT minor prepares students to use and apply technologies in workplace envir
        </li>
     </ul>
     </blockquote>
+    </li>
     </ol>
 
 5. <b>CIS 111 Web Programming</b>. ES6, jQuery.
