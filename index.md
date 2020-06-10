@@ -37,13 +37,13 @@ The CIT minor prepares students to use and apply technologies in workplace envir
     </li>
     </ol>
 
-5. <b>CIS 111 Web Programming</b>. ES6, jQuery.
+5- <b>CIS 111 Web Programming</b>. ES6, jQuery.
 
    <blockquote>
      <a href="https://pages.uoregon.edu/rweston/111/"> 111 Projects (uoregon.edu)</a>
    </blockquote>
 
-6. <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
+6- <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
    <blockquote>
      <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
    </blockquote>
