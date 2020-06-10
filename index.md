@@ -1,9 +1,9 @@
  <h1>rweston233.github.io</h1>
   <h2>River Weston's CIT Code portfolio </h2>
 
-  The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
+The University of Oregon's Computer Science Department offers a Computer Information Technology minor.
 
-  The CIT minor prepares students to use and apply technologies in workplace environments that require development and management of databases, computer networks, web applications, and software systems.
+The CIT minor prepares students to use and apply technologies in workplace environments that require development and management of databases, computer networks, web applications, and software systems.
 
   <h2>CIT Class Projects</h2>
   The CIT minor consists of six classes:
@@ -29,19 +29,20 @@
        <li>
        <a href="https://rweston233.github.io/project-2/">Project 2</a>
        </li>
-       </ul>
+    </ul>
     </blockquote>
     </ol>
 
-  5. <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
-  <blockquote>
-    <a href="https://pages.uoregon.edu/rweston/111/"> 111 Projects (uoregon.edu)</a>
-  </blockquote>
+5. <b>CIS 111 Web Programming</b>. ES6, jQuery.
 
-  6. <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
-  <blockquote>
-    <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
-  </blockquote>
+   <blockquote>
+     <a href="https://pages.uoregon.edu/rweston/111/"> 111 Projects (uoregon.edu)</a>
+   </blockquote>
+
+6. <b>CIS 110 Fluency with IT</b>. Computer Science principles, HTML, CSS.
+   <blockquote>
+     <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
+   </blockquote>
 
   <!-- <li>
     <a href="https://mh108.github.io/project-1/">Project 1</a>
