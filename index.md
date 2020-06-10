@@ -20,22 +20,18 @@
        <li>
          <a href="https://uo-cit.github.io/project-5-rweston233/">Project 5</a>
        </li>
-       <li>Project 4</li>
+       <li>
+       <a href="https://rweston233.github.io/project-4/">Project 4</a>
+       </li>
        <li>
        <a href="https://rweston233.github.io/project-3/">Project 3 </a>
        </li>
        <li>
        <a href="https://rweston233.github.io/project-2/">Project 2</a>
        </li>
-       <!-- <li>
-         <a href="https://mh108.github.io/project-1/">Project 1</a>
-       </li> -->
        </ul>
     </blockquote>
     </ol>
-
-
-
 
   5. <b>CIS 111 Web Programming</a></b>. ES6, jQuery.
   <blockquote>
@@ -47,7 +43,9 @@
     <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
   </blockquote>
 
-
+  <!-- <li>
+    <a href="https://mh108.github.io/project-1/">Project 1</a>
+  </li> -->
   <!-- - [CIT 281 Projects](https://uo-cit.github.io/project-5-rweston233/). Unix shell, Git, RESTful Web Apps with NodeJS, Express, MongoDB.
   - [CIS 111 Projects](https://pages.uoregon.edu/rweston/111/). JavaScript ES6, DOM API, jQuery.
   - [CIS 110 Projects](https://pages.uoregon.edu/rweston/110/). HTML, CSS. -->
