@@ -44,10 +44,3 @@ The CIT minor prepares students to use and apply technologies in workplace envir
    <blockquote>
      <a href="https://pages.uoregon.edu/rweston/110/"> 110 Projects (uoregon.edu)</a>
    </blockquote>
-
-  <!-- <li>
-    <a href="https://mh108.github.io/project-1/">Project 1</a>
-  </li> -->
-  <!-- - [CIT 281 Projects](https://uo-cit.github.io/project-5-rweston233/). Unix shell, Git, RESTful Web Apps with NodeJS, Express, MongoDB.
-  - [CIS 111 Projects](https://pages.uoregon.edu/rweston/111/). JavaScript ES6, DOM API, jQuery.
-  - [CIS 110 Projects](https://pages.uoregon.edu/rweston/110/). HTML, CSS. -->
