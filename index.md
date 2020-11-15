@@ -8,11 +8,12 @@ The CIT minor prepares students to use and apply technologies in workplace envir
   <h2>CIT Class Projects</h2>
   The CIT minor consists of six classes:
 
-  <ol>
+<ol>
     <li><b>CIT 383 Networking Fundamentals</b>. Network protocols, management, and security.
       </li>
     <li><b>CIT 382 Web App Dev II</b>. NodeJS, React.</li>
-    <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.    <blockquote>
+    <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.    
+    <blockquote>
          <b>381 Project Repos On Github:</b>
         <ul>
         <li>
@@ -21,7 +22,6 @@ The CIT minor prepares students to use and apply technologies in workplace envir
         </ul>
         </blockquote>
         </li>
-        
 
     <li><b>CIT 281 Web App Dev I</b>. Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
     <blockquote>
@@ -45,7 +45,7 @@ The CIT minor prepares students to use and apply technologies in workplace envir
     </ul>
     </blockquote>
     </li>
-    </ol>
+</ol>
 
 5- <b>CIS 111 Web Programming</b>. ES6, jQuery.
 
