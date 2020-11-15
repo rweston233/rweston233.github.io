@@ -12,7 +12,16 @@ The CIT minor prepares students to use and apply technologies in workplace envir
     <li><b>CIT 383 Networking Fundamentals</b>. Network protocols, management, and security.
       </li>
     <li><b>CIT 382 Web App Dev II</b>. NodeJS, React.</li>
-    <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.</li>
+    <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.    <blockquote>
+         <b>381 Project Repos On Github:</b>
+        <ul>
+        <li>
+          <a href="https://rweston233.github.io/Assignment-1/">Assignment 1</a>
+        </li>
+        </ul>
+        </blockquote>
+        </li>
+        </ol>
     <li><b>CIT 281 Web App Dev I</b>. Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
     <blockquote>
      <b>281 Project Repos On Github:</b>
