@@ -21,7 +21,8 @@ The CIT minor prepares students to use and apply technologies in workplace envir
         </ul>
         </blockquote>
         </li>
-        </ol>
+        
+
     <li><b>CIT 281 Web App Dev I</b>. Unix, Git, RESTful Web Apps: NodeJS, Express, MongoDB.
     <blockquote>
      <b>281 Project Repos On Github:</b>
