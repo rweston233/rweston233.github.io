@@ -20,7 +20,7 @@ The CIT minor prepares students to use and apply technologies in workplace envir
           <a href="">Assignment 8</a>
         </li>
         <li>
-          <a href="">Assignment 7</a>
+          <a href="https://rweston233.github.io/Assignment-7/">Assignment 7</a>
         </li>
         <li>
           <a href="https://rweston233.github.io/Assignment-6/">Assignment 6</a>
