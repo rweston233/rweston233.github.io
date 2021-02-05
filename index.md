@@ -15,6 +15,9 @@ The CIT minor prepares students to use and apply technologies in workplace envir
       <blockquote>
        <b>382 Project Repos On Github:</b>
        <ul>
+       <li>
+          <a href="https://rweston233.github.io/382Assign01/">Project 1</a>
+        </li>
        </ul>
       </blockquote>
     <li><b>CIT 381 Database Systems</b>. DB design, modeling, SQL, web services.    
