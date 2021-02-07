@@ -16,6 +16,9 @@ The CIT minor prepares students to use and apply technologies in workplace envir
        <b>382 Project Repos On Github:</b>
        <ul>
        <li>
+          <a href="https://rweston233.github.io/382Assign02-3/">Project 2/3</a>
+        </li>
+       <li>
           <a href="https://rweston233.github.io/382Assign01/">Project 1</a>
         </li>
        </ul>
