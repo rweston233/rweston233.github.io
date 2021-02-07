@@ -12,7 +12,7 @@ The CIT minor prepares students to use and apply technologies in workplace envir
     <li><b>CIT 383 Networking Fundamentals</b>. Network protocols, management, and security.
     <ul>
     <li>
-    will completed by Spring Term June 2021 
+    will complete by Spring Term June 2021 
     </li>
     </ul>
       </li>
